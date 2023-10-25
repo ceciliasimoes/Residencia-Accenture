@@ -1,0 +1,30 @@
+header {
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+    
+}
+
+nav {
+    display: flex;
+    gap: 30px;
+    margin-left: 60%;
+    
+}
+
+li {
+    list-style-type: none;
+  
+}
+
+h1{
+    margin-left: 50px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+  
+  
